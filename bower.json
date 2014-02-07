@@ -1,0 +1,20 @@
+{
+  "name": "lam.web",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ciel-yu/lam.web",
+  "authors": [
+    "ciel <ciel.blanc@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
